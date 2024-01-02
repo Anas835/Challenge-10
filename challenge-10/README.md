@@ -1,3 +1,15 @@
+# Challenge-10
+Create a functional component to fetch data using useEffect hook
+Create a functional component
+Make an API call to the mock API using the axios library
+The API call should be made in useEffect hook
+Ensure the call is made once like componentDidMount in a class component
+Create a functional Component to make use of useContext hook
+Create a functional component
+Create a context and provide it to the App component
+Now in the created functional component, consume the value of the context using the useContext hook
+Make sure to create two contexts and consume both in the consumer component
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
